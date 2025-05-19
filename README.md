@@ -6,7 +6,7 @@
 - 📫 How to reach me: [micsg.com.br](https://micsg.com.br)
 
 ## Coding Activity in the Last Year
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sistemas_micsg/583f56a4-ff27-4a13-9b45-125f9c0c4072.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sistemas_micsg/fce06bc4-553b-4ee6-991a-d536c6afd171.png" /></a>
 
 ## Programming Time by Language in the Last Year
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sistemas_micsg/d49ef1dc-c914-46fe-a6b3-4ec167d4d71f.png" /></a>
