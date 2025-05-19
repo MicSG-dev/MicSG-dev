@@ -9,4 +9,4 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@sistemas_micsg/fce06bc4-553b-4ee6-991a-d536c6afd171.png" /></a>
 
 ## Programming Time by Language in the Last Year
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sistemas_micsg/d49ef1dc-c914-46fe-a6b3-4ec167d4d71f.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sistemas_micsg/58076b38-873a-48be-98c0-9272573206fa.png" /></a>
